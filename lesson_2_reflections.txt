@@ -19,6 +19,8 @@ Branches allow for differances that you may not yet want implemented into master
 
 How do the diagrams help you visualize the branch structure?
 
+Digrams are able to visualize the changes and the path the files have taken.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
