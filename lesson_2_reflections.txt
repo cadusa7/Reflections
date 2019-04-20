@@ -28,3 +28,5 @@ Creates a single branch by combining changes.  Still maintains both parents
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic makes it faster to merge but may have to deconflict errors
